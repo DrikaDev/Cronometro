@@ -16,3 +16,4 @@ Cronômetro criado para fins de treino de JavaScript e Dom.
 </tr>
 </table>
 
+https://user-images.githubusercontent.com/102387476/215374402-07667c26-efa0-42b7-b7a2-b3e719694e78.mp4
